@@ -1,0 +1,66 @@
+* {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+}
+ .content{
+ padding: 50px;
+ margin: 50px;
+ box-shadow: 0px 0px 7px grey;
+ background-color: #DDEEF7;
+}
+.title{
+	font-size: 100px;
+	text-align: center;
+	color: #31780B;
+	text-shadow: 1px 1px #C2C788;
+}
+.subtitulo{
+	font-size: 50px;
+	color: blue;
+}
+th, td {
+    border: 1px solid black;
+}
+a{
+	
+	text-decoration-color: red;
+}
+p>span.text-red{
+	color:red;
+	font-weight: bold;
+}
+a>span.text-red{
+	text-decoration: underline;
+	color:red;
+}
+span.text-yellow{
+	color: #D4E614;
+}
+span.text-itali{
+	font-style: italic;
+}
+span.text-purpure{
+	color: #AE58A8;
+}
+p.end{
+	color: #486210;
+}
+span.text-morado{
+	color:#EB0CDC;
+}
+th{
+	color: peru;
+}
+
+
+
+
+
+
+
+
+
+
+
+
